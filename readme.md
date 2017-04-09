@@ -1,1 +1,3 @@
-Work-in-progress Python 3 + PyQt5 port of https://github.com/deimos1877/BorderlessWindow
+# borderless-window-win32
+
+Borderless draggable window in Python 3 using the Win32 APIs.
